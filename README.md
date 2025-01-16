@@ -4,6 +4,7 @@ MySQL is the database that are being used in this project.
 
 ## Prerequisites
 - MySQL Database Server
+- Apache TomCat 11
 
 ## Contributing
 
