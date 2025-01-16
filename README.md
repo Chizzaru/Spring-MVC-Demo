@@ -3,7 +3,7 @@ This Project is for demonstation purpose only, it implements Java Spring MVC usi
 MySQL is the database that are being used in this project.
 
 ## Prerequisites
-
+- MySQL Database Server
 
 ## Contributing
 
@@ -14,4 +14,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/apache/)
+[Apache License 2.0](https://choosealicense.com/licenses/apache/)
